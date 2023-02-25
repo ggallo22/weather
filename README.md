@@ -1,6 +1,6 @@
 ## Description
 
-The Weather Forecast is a 7 day forecast in Vancouver, B.C. Canada.
+The Weather Forecast is a mini web application that tracks daily forecasts, 7 day forecast in Vancouver, B.C. Canada. 
 
 
 ## API Used
